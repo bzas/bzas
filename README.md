@@ -5,7 +5,6 @@ I am Alfonso, a 24-year-old software engineer. My interests include the developm
 ## 🧙🏻‍♂️ About Me
 - 📚 Computer Science graduate from the University of Salamanca
 - 💼 Working as iOS Engineer at Nomasystems, in Zara Home project
-- 🌱 Currently deepening my knowledge of API Design and big data architectures.
 
 ## 🛠 My tech stack
 
