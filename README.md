@@ -5,10 +5,6 @@ Currently an iOS Engineer at Nomasystems, with many years of experience in softw
 During my career I've had the opportunity to make important decisions within the development team, collaborate closely with designers and QAs and deliver innovative solutions that exceed user expectations. <br/>
 I am a strong advocate of programming practices such as "Clean Code" and "SOLID" and am always looking for opportunities to learn and apply new technologies in exciting projects. <br/>
 
-## 🧙🏻‍♂️ About Me
-- 📚 Computer Science graduate from the University of Salamanca
-- 💼 Working as iOS Engineer at Nomasystems, involved in the development of Zara Home iOS app
-
 ## 🛠 My tech stack
 
 <img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/macos-ffffff?style=for-the-badge&logo=macos&logoColor=000" /> <img src="https://img.shields.io/badge/Linux-e3ce10?style=for-the-badge&logo=linux&logoColor=000" /> <br/>
