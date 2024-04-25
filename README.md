@@ -1,7 +1,7 @@
 # Hey there! I'm Alfonso
 
 Computer Science graduate and passionate of new technologies. <br/>
-Currently a developer of iOS apps at Nomasystems, with more than 3 years of experience in software design, development and maintenance. <br/>
+Currently an iOS Engineer at Nomasystems, with more than 3 years of experience in software design, development and maintenance. <br/>
 During my career I've had the opportunity to make important decisions within the development team, collaborate closely with designers and QAs and deliver innovative solutions that exceed user expectations. <br/>
 I am a strong advocate of programming practices such as "Clean Code" and "SOLID" and am always looking for opportunities to learn and apply new technologies in exciting projects. <br/>
 
