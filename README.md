@@ -1,4 +1,4 @@
-# Hey there! I'm Alfonso <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" />
+# Hey there! I'm Alfonso
 
 I am Alfonso, a 24-year-old software engineer. My interests include the development and design of iOS apps, as well as keeping up to date to the latest technologies in the tech world.
 
