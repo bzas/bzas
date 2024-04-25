@@ -22,7 +22,7 @@ I am Alfonso, a 24-year-old software engineer. My interests include the developm
 
 ## 📫 How to contact me
 <p align="center">
- <a href="https://github.com/bzas/bzas/raw/main/resume.pdf"> 📄⬇ Download my resume  </a>
+ <a href="https://github.com/bzas/bzas/blob/main/Resume.pdf"> 📄⬇ Download my resume  </a>
  </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/alfonso-boizas/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
