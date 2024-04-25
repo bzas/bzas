@@ -1,6 +1,9 @@
 # Hey there! I'm Alfonso
 
-I am Alfonso, a 24-year-old software engineer. My interests include the development and design of iOS apps, as well as keeping up to date to the latest technologies in the tech world.
+Computer Science graduate and passionate of new technologies. 
+Currently a developer of iOS apps at Nomasystems, with more than 3 years of experience in software design, development and maintenance. 
+During my career I've had the opportunity to make important decisions within the development team, collaborate closely with designers and QAs and deliver innovative solutions that exceed user expectations. 
+I am a strong advocate of programming practices such as "Clean Code" and "SOLID" and am always looking for opportunities to learn and apply new technologies in exciting projects.
 
 ## 🧙🏻‍♂️ About Me
 - 📚 Computer Science graduate from the University of Salamanca
