@@ -20,4 +20,4 @@ I am Alfonso, a 24-year-old software engineer. My interests include the developm
 
 <a href="https://github.com/bzas/bzas/raw/main/Resume.pdf"> <img src="https://img.shields.io/badge/my_resume-e3ce10?style=for-the-badge&logo=rectangle&logoColor=000" /> </a>
 <a href="https://www.linkedin.com/in/alfonso-boizas/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="mailto:boizasal@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:boizasal@gmail.com"> <img src="https://img.shields.io/badge/boizasal@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a>
