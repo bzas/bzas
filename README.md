@@ -7,7 +7,7 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 
 ## 🧙🏻‍♂️ About Me
 - 📚 Computer Science graduate from the University of Salamanca
-- 💼 Working as iOS Engineer at Nomasystems, in Zara Home project
+- 💼 Working as iOS Engineer at Nomasystems, involved in the development of Zara Home iOS app <a href="https://apps.apple.com/es/app/zara-home/id474175190"> <img src="https://img.shields.io/badge/zara_home-ffffff?style=for-the-badge&logoColor=000" /> </a>
 
 ## 🛠 My tech stack
 
