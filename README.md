@@ -8,7 +8,7 @@ I am Alfonso, a 24-year-old software engineer. My interests include the developm
 
 ## 🛠 My tech stack
 
-<img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/macos-ffffff?style=for-the-badge&logo=macos&logoColor=000" />  <br/>
+<img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/macos-ffffff?style=for-the-badge&logo=macos&logoColor=000" /> <img src="https://img.shields.io/badge/Linux-e3ce10?style=for-the-badge&logo=linux&logoColor=000" /> <br/>
 <img src="https://img.shields.io/badge/Swift-f72d00?style=for-the-badge&logo=Swift&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/objective%20c-706d6d?style=for-the-badge&logo=objective-c&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Shell_Script-3b3939?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/uikit-3ba4f5?style=for-the-badge&logo=uikit&logoColor=ffffff" /> <img src="https://img.shields.io/badge/swiftui-f5823b?style=for-the-badge&logo=swift&logoColor=ffffff" /> <br/>
 <img src="https://img.shields.io/badge/Xcode-2e75b3?style=for-the-badge&logo=Xcode&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Visual%20studio%20code-14bdfa?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff" /> <br/>
