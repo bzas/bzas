@@ -17,7 +17,8 @@ I am Alfonso, a 24-year-old software engineer. My interests include the developm
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/figma-82faa6?style=for-the-badge&logo=figma&logoColor=000" /> <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/chat%20gpt-8acfb0?style=for-the-badge&logo=openai&logoColor=000000" /> <br/>
 
 ## 📫 How to contact me
- 
-<a href="https://github.com/bzas/bzas/blob/main/Resume.pdf"> 📄 Get my full resume  </a> <br/>
-<a href="https://www.linkedin.com/in/alfonso-boizas/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <br/>
-<a href="mailto:boizasal@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="https://github.com/bzas/bzas/blob/main/Resume.pdf"> <img src="https://img.shields.io/badge/resume-e3ce10?style=for-the-badge&logo=rectangle&logoColor=000" /> </a>
+<a href="https://github.com/bzas/bzas/blob/main/Resume.pdf"> 📄 Get my full resume  </a>
+<a href="https://www.linkedin.com/in/alfonso-boizas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="mailto:boizasal@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a>
