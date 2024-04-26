@@ -5,7 +5,7 @@ Currently an iOS Engineer at Nomasystems, with many years of experience in softw
 During my career I've had the opportunity to make important decisions within the development team, collaborate closely with designers and QAs and deliver innovative solutions that exceed user expectations. <br/>
 I am a strong advocate of programming practices such as "Clean Code" and "SOLID" and am always looking for opportunities to learn and apply new technologies in exciting projects. <br/>
 
-## 🛠 My tech stack
+## My tech stack
 
 <img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/macos-ffffff?style=for-the-badge&logo=macos&logoColor=000" /> <img src="https://img.shields.io/badge/Linux-e3ce10?style=for-the-badge&logo=linux&logoColor=000" /> <br/>
 <img src="https://img.shields.io/badge/Swift-f72d00?style=for-the-badge&logo=Swift&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/objective%20c-706d6d?style=for-the-badge&logo=objective-c&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Shell_Script-3b3939?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br/>
@@ -16,7 +16,11 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 <img src="https://img.shields.io/badge/sonarqube-852a65?style=for-the-badge&logo=sonarqube&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Firebase-3993fa?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/swiftlint-ce2ad4?style=for-the-badge&logo=swift&logoColor=ffffff" /> <br/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/figma-82faa6?style=for-the-badge&logo=figma&logoColor=000" /> <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/chat%20gpt-8acfb0?style=for-the-badge&logo=openai&logoColor=000000" /> <br/>
 
-## 📫 Contact me
+## Personal projects
+
+<img src="https://www.creativefabrica.com/wp-content/uploads/2021/04/28/Work-In-Progress-Grunge-Stamp-Graphics-11432470-1.jpg" />
+
+## Contact me
 
 <a href="https://github.com/bzas/bzas/raw/main/Resume.pdf"> <img src="https://img.shields.io/badge/my_resume-e3ce10?style=for-the-badge&logo=rectangle&logoColor=000" /> </a>
 <a href="https://www.linkedin.com/in/alfonso-boizas/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
