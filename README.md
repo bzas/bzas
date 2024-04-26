@@ -18,7 +18,7 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 
 ## Personal projects
 
-<img src="https://www.creativefabrica.com/wp-content/uploads/2021/04/28/Work-In-Progress-Grunge-Stamp-Graphics-11432470-1.jpg" />
+<img src="https://github.com/bzas/bzas/blob/main/WIP.jpg" width="500" />
 
 ## Contact me
 
