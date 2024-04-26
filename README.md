@@ -18,7 +18,7 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 
 ## Personal projects
 
-<img src="https://github.com/bzas/bzas/blob/main/WIP.jpg" width="500" />
+<img src="https://github.com/bzas/bzas/blob/main/Work_in_Progress.png" width="200" />
 
 ## Contact me
 
