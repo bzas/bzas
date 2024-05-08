@@ -8,12 +8,10 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 ## My tech stack
 
 ##### Plattforms <br/>
-<img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/macos-ffffff?style=for-the-badge&logo=macos&logoColor=000" /> <img src="https://img.shields.io/badge/Linux-e3ce10?style=for-the-badge&logo=linux&logoColor=000" /> <img src="https://img.shields.io/badge/App_Store_Publishing-ffffff?style=for-the-badge&logo=app%20store" /> <br/>
+<img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/macos-ffffff?style=for-the-badge&logo=macos&logoColor=000" /> <img src="https://img.shields.io/badge/App_Store_Publishing-ffffff?style=for-the-badge&logo=app%20store" /> <br/>
 
-##### Languages <br/>
-<img src="https://img.shields.io/badge/Swift-f72d00?style=for-the-badge&logo=Swift&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/objective%20c-706d6d?style=for-the-badge&logo=objective-c&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Shell_Script-3b3939?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br/>
-
-##### Frameworks <br/>
+##### Languages and Frameworks <br/>
+<img src="https://img.shields.io/badge/Swift-f72d00?style=for-the-badge&logo=Swift&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/objective%20c-706d6d?style=for-the-badge&logo=objective-c&logoColor=FFFFFF" /> <br/>
 <img src="https://img.shields.io/badge/uikit-3ba4f5?style=for-the-badge&logo=uikit&logoColor=ffffff" /> <img src="https://img.shields.io/badge/swiftui-f5823b?style=for-the-badge&logo=swift&logoColor=ffffff" /> <br/>
 
 ##### Developer tools <br/>
@@ -23,12 +21,11 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 <br/>
 
 ##### Source Control & CI/CD
-<img src="https://img.shields.io/badge/git-ff0000?style=for-the-badge&logo=git&logoColor=ffffff" /> <img src="https://img.shields.io/badge/github-8400ff?style=for-the-badge&logo=github&logoColor=ffffff" /> <img src="https://img.shields.io/badge/github%20actions-367d2e?style=for-the-badge&logo=GitHub%20actions&logoColor=ffffff" /> <img src="https://img.shields.io/badge/fastlane-85fc49?style=for-the-badge&logo=fastlane&logoColor=000" />
-
-##### Project management
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/git-ff0000?style=for-the-badge&logo=git&logoColor=ffffff" /> <img src="https://img.shields.io/badge/github-8400ff?style=for-the-badge&logo=github&logoColor=ffffff" /> <br/>
+<img src="https://img.shields.io/badge/github%20actions-367d2e?style=for-the-badge&logo=GitHub%20actions&logoColor=ffffff" /> <img src="https://img.shields.io/badge/fastlane-85fc49?style=for-the-badge&logo=fastlane&logoColor=000" />
 
 ##### Other tools
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" /> <br/>
 <img src="https://img.shields.io/badge/Firebase-3993fa?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/figma-82faa6?style=for-the-badge&logo=figma&logoColor=000" />  <img src="https://img.shields.io/badge/chat%20gpt-8acfb0?style=for-the-badge&logo=openai&logoColor=000000" /> <br/>
 
 ## Personal projects
