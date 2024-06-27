@@ -46,8 +46,6 @@ The definitive application for all lovers of movies and TV series. With Showtime
   <img src="https://github.com/bzas/bzas/blob/main/images/capture-1.png" width="175" />
   <img src="https://github.com/bzas/bzas/blob/main/images/capture-2.png" width="175" />
   <img src="https://github.com/bzas/bzas/blob/main/images/capture-3.png" width="175" />
-  <img src="https://github.com/bzas/bzas/blob/main/images/capture-4.png" width="175" />
-  <img src="https://github.com/bzas/bzas/blob/main/images/capture-5.png" width="175" />
 </p>
 
 # Contact me
