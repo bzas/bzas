@@ -30,10 +30,7 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 
 # Personal projects
 
-## Showtime Hub - Movies & Series
-<a href="https://apps.apple.com/es/app/showtime-hub-cine-y-series/id6503365201">
-  <img src="https://img.shields.io/badge/Download_on_App_Store-3ba4f5?style=for-the-badge&logo=app%20store&logoColor=ffffff" />
-</a>
+## [Showtime Hub - Movies & Series](https://apps.apple.com/es/app/showtime-hub-cine-y-series/id6503365201)
 
 The definitive application for all lovers of movies and TV series. With Showtime Hub, keeping track of your favorite movies and series has never been easier and more fun. Designed to be intuitive and elegant, our app allows you to manage all your audiovisual content in an efficient and personalized way.
 - Create and organize your personal library of movies and series.
