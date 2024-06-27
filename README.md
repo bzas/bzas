@@ -48,6 +48,14 @@ The definitive application for all lovers of movies and TV series. With Showtime
   <img src="https://github.com/bzas/bzas/blob/main/images/capture-3.png" width="275" />
 </p>
 
+#### Technologies
+
+<img src="https://img.shields.io/badge/Swift-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/SwiftUI-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/Fastlane-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/SwiftLint-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/URLSession-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/SwiftData-706d6d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PhotosUI-706d6d?style=for-the-badge" /> 
+
+<br/>
+<br/>
+
 # Contact me
 
 <a href="https://github.com/bzas/bzas/raw/main/Resume.pdf"> <img src="https://img.shields.io/badge/my_resume-e3ce10?style=for-the-badge&logo=rectangle&logoColor=000" /> </a>
