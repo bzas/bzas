@@ -40,6 +40,8 @@ The definitive application for all lovers of movies and TV series. With Showtime
 - Easily add titles with our advanced search feature
 - Mark the movies and series you have already seen.
 - Maintain an up-to-date list of pending titles to watch.
+- Customize the UI
+
 <br/>
 
 <p float="left">
