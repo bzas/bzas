@@ -26,7 +26,10 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 
 ##### Other tools
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" /> <br/>
-<img src="https://img.shields.io/badge/Firebase-3993fa?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/figma-82faa6?style=for-the-badge&logo=figma&logoColor=000" />  <img src="https://img.shields.io/badge/chat%20gpt-8acfb0?style=for-the-badge&logo=openai&logoColor=000000" /> <br/>
+<img src="https://img.shields.io/badge/Firebase-3993fa?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/figma-82faa6?style=for-the-badge&logo=figma&logoColor=000" />  <img src="https://img.shields.io/badge/chat%20gpt-8acfb0?style=for-the-badge&logo=openai&logoColor=000000" />
+
+<br/>
+<br/>
 
 # Personal projects
 
