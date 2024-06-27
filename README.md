@@ -5,7 +5,7 @@ Currently an iOS Engineer at Nomasystems, with many years of experience in softw
 During my career I've had the opportunity to make important decisions within the development team, collaborate closely with designers and QAs and deliver innovative solutions that exceed user expectations. <br/>
 I am a strong advocate of programming practices such as "Clean Code" and "SOLID" and am always looking for opportunities to learn and apply new technologies in exciting projects. <br/>
 
-## My tech stack
+# My tech stack
 
 ##### Plattforms <br/>
 <img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/macos-ffffff?style=for-the-badge&logo=macos&logoColor=000" /> <img src="https://img.shields.io/badge/App_Store_Publishing-ffffff?style=for-the-badge&logo=app%20store" /> <br/>
@@ -28,11 +28,29 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" /> <br/>
 <img src="https://img.shields.io/badge/Firebase-3993fa?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/figma-82faa6?style=for-the-badge&logo=figma&logoColor=000" />  <img src="https://img.shields.io/badge/chat%20gpt-8acfb0?style=for-the-badge&logo=openai&logoColor=000000" /> <br/>
 
-## Personal projects
+# Personal projects
 
-<img src="https://github.com/bzas/bzas/blob/main/Work_in_Progress.png" width="200" />
+## Showtime Hub - Movies & Series
+<a href="https://apps.apple.com/es/app/showtime-hub-cine-y-series/id6503365201">
+  <img src="https://img.shields.io/badge/Download_on_App_Store-3ba4f5?style=for-the-badge&logo=app%20store&logoColor=ffffff" />
+</a>
 
-## Contact me
+The definitive application for all lovers of movies and TV series. With Showtime Hub, keeping track of your favorite movies and series has never been easier and more fun. Designed to be intuitive and elegant, our app allows you to manage all your audiovisual content in an efficient and personalized way.
+- Create and organize your personal library of movies and series.
+- Easily add titles with our advanced search feature
+- Mark the movies and series you have already seen.
+- Maintain an up-to-date list of pending titles to watch.
+<br/>
+
+<p float="left">
+  <img src="https://github.com/bzas/bzas/blob/main/images/capture-1.png" width="175" />
+  <img src="https://github.com/bzas/bzas/blob/main/images/capture-2.png" width="175" />
+  <img src="https://github.com/bzas/bzas/blob/main/images/capture-3.png" width="175" />
+  <img src="https://github.com/bzas/bzas/blob/main/images/capture-4.png" width="175" />
+  <img src="https://github.com/bzas/bzas/blob/main/images/capture-5.png" width="175" />
+</p>
+
+# Contact me
 
 <a href="https://github.com/bzas/bzas/raw/main/Resume.pdf"> <img src="https://img.shields.io/badge/my_resume-e3ce10?style=for-the-badge&logo=rectangle&logoColor=000" /> </a>
 <a href="https://www.linkedin.com/in/alfonso-boizas/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
