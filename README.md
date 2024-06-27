@@ -47,10 +47,8 @@ The definitive application for all lovers of movies and TV series. With Showtime
 
 #### Technologies
 
-<img src="https://img.shields.io/badge/Swift-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/SwiftUI-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/Fastlane-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/SwiftLint-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/URLSession-706d6d?style=for-the-badge" /> <img src="https://img.shields.io/badge/SwiftData-706d6d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PhotosUI-706d6d?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Swift-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/SwiftUI-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/Fastlane-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/SwiftLint-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/URLSession-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/SwiftData-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/PhotosUI-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/MVVM-706d6d?style=plastic" /> 
 
-<br/>
 <br/>
 
 # Contact me
