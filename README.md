@@ -39,8 +39,6 @@ The definitive application for all lovers of movies and TV series. With Showtime
 - Maintain an up-to-date list of pending titles to watch.
 - Customize the UI
 
-<br/>
-
 <p float="left">
   <img src="https://github.com/bzas/bzas/blob/main/images/capture-1.png" width="275" />
   <img src="https://github.com/bzas/bzas/blob/main/images/capture-2.png" width="275" />
