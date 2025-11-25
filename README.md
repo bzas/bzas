@@ -33,9 +33,64 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 
 # Personal projects
 
-## [Showtime Hub - Movies & Series](https://apps.apple.com/es/app/showtime-hub-cine-y-series/id6503365201)
+## [Renn - Running app](https://github.com/bzas/Running-app-ios) (Work in Progress)
 
-[Repository](https://github.com/bzas/Showtime-Hub)
+iOS application (SwiftUI) for running data and stats.
+
+### Architecture
+
+The app follows a modular Clean Architecture combined with MVVM and a Coordinator system to ensure scalability, testability, and maintainability. Each layer has a clear responsibility and communicates only through well-defined interfaces.
+
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/Architecture.svg" width="600" />
+
+The project is divided into independent modules:
+- App:
+    - Main app target, AppCoordinator, AppAssembly and DependencyContainer
+    - It's main responsability is the creation and wiring of Coordinators, ViewModels, and global services
+    - It consumes UseCases provided by the Application layer and injects them into the UI
+- Domain:
+    - Domain entities and repository protocols used by UseCases
+    - This layer has no dependency on UI, database, or frameworks
+- Application:
+    - Contains the UseCase definition and their dependencies
+    - This layer defines application-level actions (e.g. importing a FIT file, loading workouts, managing the user)
+    - It knows what operations the app performs but doesn’t contain UI code
+- Database:
+    - Data models and mappers
+    - Repository implementations (conforming to domain protocols)
+    - Local persistence (SwiftData)
+    - This layer transforms external data into Domain models
+- GarminKit:
+    - Handles parsing and mapping of Garmin .fit files into Database models
+    - Based on FITSwiftSDK
+    - Garmin DTO models
+- Features: (Workouts, Profile, Launch, Search, WorkoutDetail)
+    - Its own Coordinator
+    - A RootView
+    - An Assembly protocol
+    - Local ViewModels
+    - Features remain isolated and only depend on Domain + their UseCases.
+- Localization: String localizations
+- Common: Reusable components, entities....etc
+
+### Features
+
+<p align="left">
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/Detail.PNG" width="275" />
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/DetailInfo.PNG" width="275" />
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/HeartRate.PNG" width="275" />
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/Gallery.PNG" width="275" />
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/Workouts.PNG" width="275" />
+</p>
+
+- Garmin integration for reading fitness data
+- Route mapping (MapKit) and real-time route tracking
+- Workout history and session details
+- Graphs (pace, heart rate, elevation, heart rate zones...etc)
+- Goals, personal records, stats
+
+
+## [Showtime Hub - Movies & Series](https://github.com/bzas/Showtime-Hub)
 
 The definitive application for all lovers of movies and TV series. With Showtime Hub, keeping track of your favorite movies and series has never been easier and more fun. Designed to be intuitive and elegant, our app allows you to manage all your audiovisual content in an efficient and personalized way.
 - Create and organize your personal library of movies and series.
@@ -45,16 +100,10 @@ The definitive application for all lovers of movies and TV series. With Showtime
 - Customize the UI
 
 <p float="left">
-  <img src="https://github.com/bzas/bzas/blob/main/images/capture-1.png" width="275" />
-  <img src="https://github.com/bzas/bzas/blob/main/images/capture-2.png" width="275" />
-  <img src="https://github.com/bzas/bzas/blob/main/images/capture-3.png" width="275" />
+  <img src="https://github.com/bzas/bzas/blob/main/images/ShowTimeHub/capture-1.png" width="275" />
+  <img src="https://github.com/bzas/bzas/blob/main/images/ShowTimeHub/capture-2.png" width="275" />
+  <img src="https://github.com/bzas/bzas/blob/main/images/ShowTimeHub/capture-3.png" width="275" />
 </p>
-
-#### Technologies
-
-<img src="https://img.shields.io/badge/Swift-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/SwiftUI-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/Fastlane-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/SwiftLint-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/URLSession-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/SwiftData-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/PhotosUI-706d6d?style=plastic" /> <img src="https://img.shields.io/badge/MVVM-706d6d?style=plastic" /> 
-
-<br/>
 
 # Contact me
 
