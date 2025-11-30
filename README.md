@@ -15,9 +15,9 @@ I am a strong advocate of programming practices such as "Clean Code" and "SOLID"
 <img src="https://img.shields.io/badge/uikit-3ba4f5?style=for-the-badge&logo=uikit&logoColor=ffffff" /> <img src="https://img.shields.io/badge/swiftui-f5823b?style=for-the-badge&logo=swift&logoColor=ffffff" /> <br/>
 
 ##### Developer tools <br/>
-<img src="https://img.shields.io/badge/Xcode-2e75b3?style=for-the-badge&logo=Xcode&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Visual%20studio%20code-14bdfa?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff" /> <img src="https://img.shields.io/badge/swiftlint-ce2ad4?style=for-the-badge&logo=swift&logoColor=ffffff" /> <br/>
-<img src="https://img.shields.io/badge/sonarqube-852a65?style=for-the-badge&logo=sonarqube&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-37a308?style=for-the-badge&logo=swagger&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Xcode-2e75b3?style=for-the-badge&logo=Xcode&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Visual%20studio%20code-14bdfa?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff" /> <br/> 
+<img src="https://img.shields.io/badge/swiftlint-ce2ad4?style=for-the-badge&logo=swift&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <br/>
 
 ##### Source Control & CI/CD
@@ -77,9 +77,10 @@ The project is divided into independent modules:
 
 <p align="left">
 <img src="https://github.com/bzas/bzas/blob/main/images/Renn/Detail.PNG" width="275" />
-<img src="https://github.com/bzas/bzas/blob/main/images/Renn/DetailInfo.PNG" width="275" />
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/Profile.PNG" width="275" />
 <img src="https://github.com/bzas/bzas/blob/main/images/Renn/HeartRate.PNG" width="275" />
-<img src="https://github.com/bzas/bzas/blob/main/images/Renn/Gallery.PNG" width="275" />
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/DetailInfo.PNG" width="275" />
+<img src="https://github.com/bzas/bzas/blob/main/images/Renn/Metrics.PNG" width="275" />
 <img src="https://github.com/bzas/bzas/blob/main/images/Renn/Workouts.PNG" width="275" />
 </p>
 
