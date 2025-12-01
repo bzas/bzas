@@ -85,6 +85,17 @@ The definitive application for all lovers of movies and TV series. With Showtime
   <img src="https://github.com/bzas/bzas/blob/main/images/ShowTimeHub/capture-3.png" width="275" />
 </p>
 
+# 💡 What I enjoy working on
+
+- 📐 Scalable architectures & modular apps  
+- 🧪 Testable code, quality and performance  
+- 🔌 SDK integrations with clean abstractions  
+- 🔁 CI/CD pipelines and automation  
+- 🧭 Product-oriented engineering  
+- 🧠 Using AI to accelerate development  
+- 🧪 Experimenting with new Apple frameworks  
+- 🥽 Exploring visionOS (soon!)
+
 # Contact me
 
 <a href="https://www.linkedin.com/in/alfonso-boizas/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
