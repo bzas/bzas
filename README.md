@@ -5,6 +5,11 @@ iOS Engineer focused on scalable architectures, clean code and high-quality user
 I enjoy owning modules end-to-end: from collaborating with design and product, to defining the architecture, implementing features, writing tests and improving performance. <br/>
  I’m especially interested in applying new Apple technologies (SwiftData, SwiftUI) and AI to real products and to my daily workflow.
 
+# My tech stack
+
+<img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Swift-f72d00?style=for-the-badge&logo=Swift&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/uikit-3ba4f5?style=for-the-badge&logo=uikit&logoColor=ffffff" /> <img src="https://img.shields.io/badge/swiftui-f5823b?style=for-the-badge&logo=swift&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Xcode-2e75b3?style=for-the-badge&logo=Xcode&logoColor=FFFFFF" /> <br/>
+<img src="https://img.shields.io/badge/git-ff0000?style=for-the-badge&logo=git&logoColor=ffffff" /> <img src="https://img.shields.io/badge/github-8400ff?style=for-the-badge&logo=github&logoColor=ffffff" /> <img src="https://img.shields.io/badge/github%20actions-367d2e?style=for-the-badge&logo=GitHub%20actions&logoColor=ffffff" /> <img src="https://img.shields.io/badge/chat%20gpt-8acfb0?style=for-the-badge&logo=openai&logoColor=000000" />
+
 # Personal projects
 
 ## [Renn - Running app](https://github.com/bzas/Running-app-ios) (Work in Progress)
@@ -79,29 +84,6 @@ The definitive application for all lovers of movies and TV series. With Showtime
   <img src="https://github.com/bzas/bzas/blob/main/images/ShowTimeHub/capture-2.png" width="275" />
   <img src="https://github.com/bzas/bzas/blob/main/images/ShowTimeHub/capture-3.png" width="275" />
 </p>
-
-# My tech stack
-
-##### Plattforms <br/>
-<img src="https://img.shields.io/badge/iOS-3b3939?style=for-the-badge&logo=apple&logoColor=ffffff" /> <img src="https://img.shields.io/badge/macos-ffffff?style=for-the-badge&logo=macos&logoColor=000" /> <img src="https://img.shields.io/badge/App_Store_Publishing-ffffff?style=for-the-badge&logo=app%20store" /> <br/>
-
-##### Languages and Frameworks <br/>
-<img src="https://img.shields.io/badge/Swift-f72d00?style=for-the-badge&logo=Swift&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/objective%20c-706d6d?style=for-the-badge&logo=objective-c&logoColor=FFFFFF" /> <br/>
-<img src="https://img.shields.io/badge/uikit-3ba4f5?style=for-the-badge&logo=uikit&logoColor=ffffff" /> <img src="https://img.shields.io/badge/swiftui-f5823b?style=for-the-badge&logo=swift&logoColor=ffffff" /> <br/>
-
-##### Developer tools <br/>
-<img src="https://img.shields.io/badge/Xcode-2e75b3?style=for-the-badge&logo=Xcode&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Visual%20studio%20code-14bdfa?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff" /> <br/> 
-<img src="https://img.shields.io/badge/swiftlint-ce2ad4?style=for-the-badge&logo=swift&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<br/>
-
-##### Source Control & CI/CD
-<img src="https://img.shields.io/badge/git-ff0000?style=for-the-badge&logo=git&logoColor=ffffff" /> <img src="https://img.shields.io/badge/github-8400ff?style=for-the-badge&logo=github&logoColor=ffffff" /> <br/>
-<img src="https://img.shields.io/badge/github%20actions-367d2e?style=for-the-badge&logo=GitHub%20actions&logoColor=ffffff" /> <img src="https://img.shields.io/badge/fastlane-85fc49?style=for-the-badge&logo=fastlane&logoColor=000" />
-
-##### Other tools
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" /> <br/>
-<img src="https://img.shields.io/badge/Firebase-3993fa?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/figma-82faa6?style=for-the-badge&logo=figma&logoColor=000" />  <img src="https://img.shields.io/badge/chat%20gpt-8acfb0?style=for-the-badge&logo=openai&logoColor=000000" />
 
 # Contact me
 
