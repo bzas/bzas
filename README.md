@@ -12,7 +12,7 @@ I enjoy owning modules end-to-end: from collaborating with design and product, t
 
 # 📂 Personal projects
 
-## 🏃‍♂️ [Renn - Running app](https://github.com/bzas/Running-app-ios) (Work in Progress)
+## 🏃‍♂️ [Renn - Running app](https://github.com/bzas/Running-app-ios)
 
 iOS application (SwiftUI) for running data and stats.
 - Garmin integration for reading fitness data
