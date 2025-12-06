@@ -14,12 +14,7 @@ I enjoy owning modules end-to-end: from collaborating with design and product, t
 
 ## 🏃‍♂️ [Renn - Running app](https://github.com/bzas/Running-app-ios)
 
-iOS application (SwiftUI) for running data and stats.
-- Garmin integration for reading fitness data
-- Route mapping (MapKit) and real-time route tracking
-- Workout history and session details
-- Graphs (pace, heart rate, elevation, heart rate zones...etc)
-- Goals, personal records, stats
+iOS application (SwiftUI, Clean Architecture, Coordinators, MVVM) for running data and stats. It imports Garmin `.fit` files, stores workouts with SwiftData, and presents charts/routes while keeping navigation and data flow split into small, testable modules (Workouts, Profile, UserConfiguration, Search, WorkoutDetail) wired through coordinators and use cases.
   
 <p align="left">
 <img src="https://github.com/bzas/bzas/blob/main/images/Renn/Detail.PNG" width="275" />
