@@ -14,12 +14,11 @@ I enjoy owning modules end-to-end: from collaborating with design and product, t
 
 ## 🏃‍♂️ [Renn - Running app](https://github.com/bzas/Running-app-ios)
 
-iOS application (SwiftUI) for running data and stats.
-- Garmin integration for reading fitness data
-- Route mapping (MapKit) and real-time route tracking
-- Workout history and session details
-- Graphs (pace, heart rate, elevation, heart rate zones...etc)
-- Goals, personal records, stats
+iOS application for running data and stats. It imports Garmin `.fit` files, stores workouts with SwiftData, and presents charts/routes while keeping navigation and data flow split into small, testable modules (Workouts, Profile, UserConfiguration, Search, WorkoutDetail) wired through coordinators and use cases.
+
+### Key technologies
+
+Clean Architecture · Coordinators · MVVM · SwiftUI · Swift 6 · SwiftData · MapKit · FITSwiftSDK (Garmin `.fit`) · GitHub Actions
   
 <p align="left">
 <img src="https://github.com/bzas/bzas/blob/main/images/Renn/Detail.PNG" width="275" />
@@ -30,14 +29,25 @@ iOS application (SwiftUI) for running data and stats.
 <img src="https://github.com/bzas/bzas/blob/main/images/Renn/Workouts.PNG" width="275" />
 </p>
 
+## 🪐 [Astronomical Objects Showcase - visionOS (Work in Progress)](https://github.com/bzas/Astronomical-objects-visionOS)
+
+Sample visionOS project that displays 3D astronomical objects.
+
+### Key technologies
+
+visionOS · RealityKit · SwiftUI · Clean Architecture · Swift 6 · Swift Concurrency · Dependency Injection
+
 ## 🎬 [Showtime Hub - Movies & Series](https://github.com/bzas/Showtime-Hub)
 
-The definitive application for all lovers of movies and TV series. With Showtime Hub, keeping track of your favorite movies and series has never been easier and more fun. Designed to be intuitive and elegant, our app allows you to manage all your audiovisual content in an efficient and personalized way.
-- Create and organize your personal library of movies and series.
-- Easily add titles with our advanced search feature
-- Mark the movies and series you have already seen.
-- Maintain an up-to-date list of pending titles to watch.
-- Customize the UI
+iOS application for tracking movies and TV series. It pulls TMDB data over URLSession, persists saved
+  titles and custom lists with SwiftData, and surfaces discovery, search, and detail views (casts,
+  reviews, watch providers, images) while keeping navigation and state split into small, testable
+  SwiftUI/MVVM modules (Launch, Home, Filters, Search, MediaDetail, PersonDetail, Saved, UserLists,
+  Settings, TabBar) backed by local storage helpers and a network monitor.
+
+### Key technologies
+
+• Swift · SwiftUI · SwiftData · URLSession · PhotosUI · MVVM · Fastlane · SwiftLint
 
 <p float="left">
   <img src="https://github.com/bzas/bzas/blob/main/images/ShowTimeHub/capture-1.png" width="275" />
