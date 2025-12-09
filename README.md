@@ -37,6 +37,10 @@ Sample visionOS project that displays 3D astronomical objects.
 
 visionOS · RealityKit · SwiftUI · Clean Architecture · Swift 6 · Swift Concurrency · Dependency Injection
 
+<p align="left">
+<img src="https://github.com/bzas/bzas/blob/main/images/AstronomicalObjects/Detail.png" height="300" />
+</p>
+
 ## 🎬 [Showtime Hub - Movies & Series](https://github.com/bzas/Showtime-Hub)
 
 iOS application for tracking movies and TV series. It pulls TMDB data over URLSession, persists saved
@@ -47,7 +51,7 @@ iOS application for tracking movies and TV series. It pulls TMDB data over URLSe
 
 ### Key technologies
 
-• Swift · SwiftUI · SwiftData · URLSession · PhotosUI · MVVM · Fastlane · SwiftLint
+Swift · SwiftUI · SwiftData · URLSession · PhotosUI · MVVM · Fastlane · SwiftLint
 
 <p float="left">
   <img src="https://github.com/bzas/bzas/blob/main/images/ShowTimeHub/capture-1.png" width="275" />
